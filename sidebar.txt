@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eri:home|Door43 (eri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eri|d43-eri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eri/archive/master.zip|d43-eri.zip]]
+
+**Recent Changes**
+{{changes>ns = eri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eri|Ethnologue data]]
+
